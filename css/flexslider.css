@@ -1,0 +1,11 @@
+*{position: relative; margin:0; padding: 0;}
+
+.flexslider{ width: 100%; height: 500px;}
+.slides{ overflow: hidden; height: 650px;}
+.slides img{ width: 100%; }
+
+.flex-control-nav{display: none;}
+.flex-direction-nav {display: none;}
+
+.flex-caption{width: 70%; background: rgba(0, 0, 0, 0.50); top: -400px; color: #fff; left: 15%;padding: 15px; text-align: center;}
+.flex-caption h1{font-size: 36px; margin-bottom: 15px; }
